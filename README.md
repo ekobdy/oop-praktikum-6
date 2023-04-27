@@ -1,2 +1,0 @@
-# oop-praktikum-6
- 
